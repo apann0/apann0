@@ -3,14 +3,14 @@
   <h1>Hi, I'm apann0 👋</h1>
 
   <i>"If you're afraid to fail, then you're probably going to fail."</i> — <b>Kobe Bryant</b>
-  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
-  <!-- GitHub Stats -->
+    <!-- GitHub Stats -->
   <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
   <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
   <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
   <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
   <br/>
 
   ---
