@@ -21,7 +21,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=python,heidisql&theme=dark" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=github,vscode,figma,,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,figma,linux&theme=dark" />
   </p>
 
 </div>
