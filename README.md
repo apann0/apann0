@@ -6,6 +6,11 @@
   
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
+  <!-- GitHub Stats -->
+  <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+  <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
   <br/>
 
   ---
