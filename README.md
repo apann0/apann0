@@ -2,7 +2,6 @@
 
   <h1>Hi, I'm apann0 👋</h1>
 
-  <i>"If you're afraid to fail, then you're probably going to fail."</i> — <b>Kobe Bryant</b>
   
   <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
   <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
