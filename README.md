@@ -17,7 +17,7 @@
   <h3>Tech Stack & Tools</h3>
   
   <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
     <br/>
     <img src="https://skillicons.dev/icons?i=python,heidisql&theme=dark" />
     <br/>
