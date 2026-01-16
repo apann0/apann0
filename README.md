@@ -19,7 +19,7 @@
   <p>
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css&theme=dark" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis,prisma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,heidisql&theme=dark" />
     <br/>
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux&theme=dark" />
   </p>
