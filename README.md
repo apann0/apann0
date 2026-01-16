@@ -22,7 +22,7 @@
 
   <h3>Tech Stack & Tools</h3>
   
-  <img src="https://skillicons.dev/icons?i=php,cpp,dart,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,cpp&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,lua&theme=dark" />
   <br/>
