@@ -1,13 +1,9 @@
 <div align="center">
-  <br/>
-  <br/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apann0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apann0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+  <h1>Hi, I'm apann0 👋</h1>
 
-  <br/>
-  <br/>
-
+  <i>"If you're afraid to fail, then you're probably going to fail."</i> — <b>Kobe Bryant</b>
+  
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
   <br/>
