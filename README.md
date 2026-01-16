@@ -22,6 +22,8 @@
 
   <h3>Tech Stack & Tools</h3>
   
+  <img src="https://skillicons.dev/icons?i=php,java,cpp,cs&theme=dark" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,lua&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,github,vscode,figma,linux&theme=dark" />
