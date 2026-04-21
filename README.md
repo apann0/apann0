@@ -42,7 +42,7 @@
     <td align="left"><b>Lead Web & Script Developer</b>: Mengembangkan integrasi API antara <i>Roblox Environment</i> dan <i>Web-backend</i> untuk sistem automasi data.</td>
   </tr>
   <tr>
-    <td align="left"><b>Cerita Roleplay Hub</b></td>
+    <td align="left"><b>Cerita Roleplay</b></td>
     <td align="left"><b>Full-Stack Developer</b>: Membangun ekosistem web komunitas FiveM dengan fitur pelacakan pemain <i>real-time</i> dan modul minigames.</td>
   </tr>
   <tr>
