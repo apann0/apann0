@@ -101,7 +101,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=apann0&style=flat-square&color=2F80ED&label=PROFILE+VIEWS" />
   <br/>
-  <i>Let's build something amazing together.</i>
+  <i>apann0.</i>
 </div>
 
 </div>
