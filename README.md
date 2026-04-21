@@ -14,21 +14,19 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apann0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apann0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apann0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apann0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED" alt="Top Languages" height="170" />
 </div>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=apann0&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
+<br/>
+<img src="https://platane.github.io/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" />
 
 ---
 
