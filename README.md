@@ -30,32 +30,32 @@
 
 ---
 
-<h2 align="center">Work Experience & Projects</h2>
+<h2 align="center">💼 Work Experience & Projects</h2>
 
 <table align="center">
   <tr>
     <th align="left" width="30%">Project / Group</th>
     <th align="left" width="70%">Description & Contribution</th>
   </tr>
-<tr>
+  <tr>
     <td align="left"><b>SannSunner Group</b></td>
-    <td align="left"><b>Security Researcher & Script Developer</b>: Menganalisis kerentanan sistem pada environment Roblox dan mengembangkan integrasi automasi data berbasis web.</td>
+    <td align="left"><b>Full-Stack & Automation Developer</b>: Melakukan riset teknis pada sistem game (scripting) dan membangun integrasi web-backend untuk manajemen sistem automasi data secara terpusat.</td>
   </tr>
   <tr>
-    <td align="left"><b>Cerita Roleplay</b></td>
-    <td align="left"><b>Full-Stack Developer</b>: Membangun ekosistem web komunitas FiveM dengan fitur pelacakan pemain <i>real-time</i> dan modul minigames.</td>
+    <td align="left"><b>Cerita Roleplay Hub</b></td>
+    <td align="left"><b>Full-Stack Developer</b>: Membangun ekosistem web komunitas FiveM dengan fitur pelacakan pemain <i>real-time</i> dan modul minigames terintegrasi.</td>
   </tr>
   <tr>
     <td align="left"><b>FortunaBattleground</b></td>
-    <td align="left"><b>Game System Architect</b>: Merancang arsitektur server Battle Royale di platform FiveM dengan fokus pada mekanik kompetitif.</td>
+    <td align="left"><b>Game System Architect</b>: Merancang arsitektur server Battle Royale di platform FiveM dengan fokus pada mekanik kompetitif dan stabilitas sistem.</td>
   </tr>
   <tr>
     <td align="left"><b>TabunganKita</b></td>
-    <td align="left"><b>Web Developer</b>: Menciptakan platform manajemen finansial personal untuk pelacakan tabungan yang terorganisir.</td>
+    <td align="left"><b>Web Developer</b>: Menciptakan platform manajemen finansial personal untuk pelacakan tabungan yang terorganisir dan efisien.</td>
   </tr>
   <tr>
     <td align="left"><b>Egg Clicker</b></td>
-    <td align="left"><b>Game Developer</b>: Mengembangkan game simulator interaktif di Roblox dengan sistem kustom UI dan retensi pemain.</td>
+    <td align="left"><b>Game Developer</b>: Mengembangkan game simulator interaktif di Roblox dengan implementasi kustom UI dan logika retensi pemain.</td>
   </tr>
 </table>
 
