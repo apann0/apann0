@@ -37,9 +37,9 @@
     <th align="left" width="30%">Project / Group</th>
     <th align="left" width="70%">Description & Contribution</th>
   </tr>
-  <tr>
+<tr>
     <td align="left"><b>SannSunner Group</b></td>
-    <td align="left"><b>Lead Web & Script Developer</b>: Mengembangkan integrasi API antara <i>Roblox Environment</i> dan <i>Web-backend</i> untuk sistem automasi data.</td>
+    <td align="left"><b>Security Researcher & Script Developer</b>: Menganalisis kerentanan sistem pada environment Roblox dan mengembangkan integrasi automasi data berbasis web.</td>
   </tr>
   <tr>
     <td align="left"><b>Cerita Roleplay</b></td>
