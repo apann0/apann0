@@ -5,22 +5,22 @@
 <br/>
 
 <a href="https://github.com/apann0">
-  <img src="https://img.shields.io/github/followers/apann0?label=Followers&style=for-the-badge&color=2F80ED&logo=github&labelColor=1a1a2e" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/apann0?label=Followers&style=for-the-badge&color=2F80ED&logo=github" alt="Followers" />
 </a>
 <a href="https://github.com/apann0">
-  <img src="https://img.shields.io/github/stars/apann0?label=Stars&style=for-the-badge&color=2F80ED&logo=github&labelColor=1a1a2e" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/apann0?label=Stars&style=for-the-badge&color=2F80ED&logo=github" alt="Stars" />
 </a>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apann0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED&icon_color=2F80ED&text_color=a9b1d6" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apann0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED&text_color=a9b1d6" height="170" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apann0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apann0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED" alt="Top Languages" />
 </div>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" />
 
 ---
 
@@ -32,17 +32,26 @@
 
 ---
 
-<p align="center"><b>Frontend</b></p>
+<h3>🚀 Tech Stack</h3>
+
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css" />
 
-<p align="center"><b>Backend & Databases</b></p>
-<img src="https://skillicons.dev/icons?i=php,mysql,nodejs,express,python,mongodb,postgres,prisma" />
+<br/>
 
-<p align="center"><b>Tools & Infra</b></p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,vercel,linux" />
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis,prisma" />
+
+<br/>
+
+**Tools & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux" />
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=apann0&style=flat-square&color=2F80ED&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=apann0&style=flat-square&color=2F80ED&label=PROFILE+VIEWS" />
 
 </div>
