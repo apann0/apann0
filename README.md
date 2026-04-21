@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center">💼 Work Experience & Projects</h2>
+<h2 align="center">Work Experience & Projects</h2>
 
 <table align="center">
   <tr>
