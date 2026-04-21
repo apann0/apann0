@@ -42,7 +42,7 @@
     <td align="left"><b>Full-Stack Developer (Lua & Web)</b>: Mengembangkan <i>Roblox automation scripts</i> terintegrasi dengan web dashboard untuk pemantauan data <i>real-time</i> seperti saldo pemain (currency) dan log aktivitas teknis lainnya.</td>
   </tr>
   <tr>
-    <td align="left"><b>Cerita Roleplay Hub</b></td>
+    <td align="left"><b>Cerita Roleplay</b></td>
     <td align="left"><b>Lead Web Developer</b>: Membangun ekosistem web komunitas FiveM yang menyajikan statistik pemain secara langsung dan fitur manajemen komunitas terpadu.</td>
   </tr>
   <tr>
