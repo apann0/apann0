@@ -1,38 +1,38 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+bimoraa+%F0%9F%91%8B;full-stack+developer;i+build+things+for+the+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+apann0+%F0%9F%91%8B;full-stack+developer;i+build+things+for+the+web" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/bimoraa?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=followers)](https://github.com/bimoraa)
-[![GitHub stars](https://img.shields.io/github/stars/bimoraa?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=stars)](https://github.com/bimoraa)
+[![GitHub followers](https://img.shields.io/github/followers/apann0?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=followers)](https://github.com/apann0)
+[![GitHub stars](https://img.shields.io/github/stars/apann0?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=stars)](https://github.com/apann0)
 
 ---
 
 <!-- GitHub Stats -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/overview.svg">
-  <img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apann0/github-stats/master/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/overview.svg">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg">
-  <img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apann0/github-stats/master/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/languages.svg">
 </picture>
 
 ---
 
 <!-- Activity Graph — dark mode -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bimoraa&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6#gh-dark-mode-only" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6#gh-dark-mode-only" />
 
 ---
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/bimoraa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimoraa/bimoraa/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/bimoraa/bimoraa/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -53,6 +53,6 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=bimoraa&style=flat&color=2F80ED&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=apann0&style=flat&color=2F80ED&label=profile+views" />
 
 </div>
