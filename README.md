@@ -1,31 +1,58 @@
 <div align="center">
 
-  <h1>Hi, I'm apann0 👋</h1>
+<!-- Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+bimoraa+%F0%9F%91%8B;full-stack+developer;i+build+things+for+the+web" alt="Typing SVG" />
 
-  
-  <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-  <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
-  <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-  <img src="https://raw.githubusercontent.com/apann0/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+<br/>
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-  <br/>
+<!-- Social Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/bimoraa?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=followers)](https://github.com/bimoraa)
+[![GitHub stars](https://img.shields.io/github/stars/bimoraa?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=stars)](https://github.com/bimoraa)
 
-  ---
+---
 
-  <h3>Tech Stack & Tools</h3>
-  
-  <img src="https://skillicons.dev/icons?i=php,cpp,dart,kotlin&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,figma,linux&theme=dark" />
+<!-- GitHub Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/overview.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg">
+</picture>
 
-  <br/>
-  <br/>
+---
 
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=apann0&color=007ACC&style=flat-square&label=PROFILE+VIEWS" alt="views" />
-  </p>
+<!-- Activity Graph — dark mode -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bimoraa&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6#gh-dark-mode-only" />
+
+---
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/bimoraa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimoraa/bimoraa/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/bimoraa/bimoraa/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<!-- Skills -->
+
+**frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css" />
+
+**backend & databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis,prisma" />
+
+**tools & infra**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux" />
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=bimoraa&style=flat&color=2F80ED&label=profile+views" />
 
 </div>
