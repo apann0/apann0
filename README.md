@@ -34,35 +34,41 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Web Engineering</h3>
-      <ul>
-        <li><b>TabunganKita</b><br/>
-          <small>Aplikasi manajemen finansial personal untuk pelacakan tabungan yang terorganisir.</small>
-        </li>
-        <li><b>Cerita Roleplay Hub</b><br/>
-          <small>Eksosistem web untuk komunitas FiveM yang mengintegrasikan <i>Real-time Player Tracking</i>, portal aturan, dan koleksi minigames interaktif.</small>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Game Systems</h3>
-      <ul>
-        <li><b>FortunaBattleground (FiveM)</b><br/>
-          <small>Arsitek server Battle Royale berbasis GTA V dengan mekanik kompetitif yang unik.</small>
-        </li>
-        <li><b>Egg Clicker (Roblox)</b><br/>
-          <small>Pengembangan simulator klik dengan fokus pada UX dan retensi pemain.</small>
-        </li>
-      </ul>
-    </td>
+    <th colspan="2" align="left"><h3>🌐 Web Engineering</h3></th>
+  </tr>
+  <tr>
+    <td width="30%" align="left"><b>TabunganKita</b></td>
+    <td width="70%" align="left">Platform manajemen finansial personal untuk pelacakan tabungan yang terorganisir.</td>
+  </tr>
+  <tr>
+    <td width="30%" align="left"><b>Cerita Roleplay Hub</b></td>
+    <td width="70%" align="left">Eksosistem web komunitas FiveM dengan fitur <i>Real-time Player Tracking</i> dan portal informasi terintegrasi.</td>
+  </tr>
+  <tr>
+    <th colspan="2" align="left"><h3>🎮 Game Systems</h3></th>
+  </tr>
+  <tr>
+    <td width="30%" align="left"><b>FortunaBattleground</b></td>
+    <td width="70%" align="left">Arsitek server Battle Royale berbasis GTA V (FiveM) dengan mekanik kompetitif yang unik.</td>
+  </tr>
+  <tr>
+    <td width="30%" align="left"><b>Egg Clicker</b></td>
+    <td width="70%" align="left">Pengembangan simulator interaktif di platform Roblox dengan fokus pada retensi pemain.</td>
   </tr>
 </table>
 
+<br/>
+
 <div align="center">
   <h3>⚡ Specialized Ecosystem</h3>
-  <p><b>SannSunner Group — Lead Script & Web Developer</b><br/>
-  Mengembangkan jembatan komunikasi (API Integration) antara <i>Roblox Environment</i> dan <i>Web-based Backend</i> untuk sistem automasi data pemain yang sinkron.</p>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <b>SannSunner Group — Lead Script & Web Developer</b><br/>
+        <small>Mengembangkan jembatan komunikasi (API Integration) antara <i>Roblox Environment</i> dan <i>Web-based Backend</i> untuk sinkronisasi data otomatis.</small>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
