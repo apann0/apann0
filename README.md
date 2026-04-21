@@ -30,46 +30,34 @@
 
 ---
 
-<h2 align="center">📂 Featured Portfolio</h2>
+<h2 align="center">🚀 Experimental Projects</h2>
 
 <table align="center">
   <tr>
-    <th colspan="2" align="left"><h3>🌐 Web Engineering</h3></th>
+    <th align="left" width="30%">Project Name</th>
+    <th align="left" width="70%">Description & Responsibility</th>
   </tr>
   <tr>
-    <td width="30%" align="left"><b>TabunganKita</b></td>
-    <td width="70%" align="left">Platform manajemen finansial personal untuk pelacakan tabungan yang terorganisir.</td>
+    <td align="left"><b>TabunganKita</b></td>
+    <td align="left">Platform manajemen finansial personal untuk pelacakan tabungan yang terorganisir.</td>
   </tr>
   <tr>
-    <td width="30%" align="left"><b>Cerita Roleplay Hub</b></td>
-    <td width="70%" align="left">Eksosistem web komunitas FiveM dengan fitur <i>Real-time Player Tracking</i> dan portal informasi terintegrasi.</td>
+    <td align="left"><b>Cerita Roleplay Hub</b></td>
+    <td align="left">Eksosistem web komunitas FiveM dengan fitur <i>Real-time Player Tracking</i> dan portal informasi terintegrasi.</td>
   </tr>
   <tr>
-    <th colspan="2" align="left"><h3>🎮 Game Systems</h3></th>
+    <td align="left"><b>FortunaBattleground</b></td>
+    <td align="left">Arsitek server Battle Royale berbasis GTA V (FiveM) dengan mekanik kompetitif yang unik.</td>
   </tr>
   <tr>
-    <td width="30%" align="left"><b>FortunaBattleground</b></td>
-    <td width="70%" align="left">Arsitek server Battle Royale berbasis GTA V (FiveM) dengan mekanik kompetitif yang unik.</td>
+    <td align="left"><b>Egg Clicker</b></td>
+    <td align="left">Pengembangan simulator interaktif di platform Roblox dengan fokus pada retensi pemain.</td>
   </tr>
   <tr>
-    <td width="30%" align="left"><b>Egg Clicker</b></td>
-    <td width="70%" align="left">Pengembangan simulator interaktif di platform Roblox dengan fokus pada retensi pemain.</td>
+    <td align="left"><b>SannSunner Group</b></td>
+    <td align="left">Lead Script & Web Developer: Mengembangkan jembatan komunikasi (API Integration) antara <i>Roblox Environment</i> dan <i>Web-based Backend</i>.</td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <h3>⚡ Specialized Ecosystem</h3>
-  <table align="center">
-    <tr>
-      <td align="center">
-        <b>SannSunner Group — Lead Script & Web Developer</b><br/>
-        <small>Mengembangkan jembatan komunikasi (API Integration) antara <i>Roblox Environment</i> dan <i>Web-based Backend</i> untuk sinkronisasi data otomatis.</small>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
