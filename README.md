@@ -15,25 +15,33 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=apann0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" width="400" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=apann0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apann0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED" alt="Top Languages" width="300" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apann0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%" />
+</p>
 
 ---
 
-<h3>🐍 Snake Contribution Eat</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apann0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<br/>
-<img src="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<h3>🐍 Snake Contribution</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apann0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -47,6 +55,8 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=apann0&style=flat-square&color=2F80ED&label=PROFILE+VIEWS" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=apann0&style=flat-square&color=2F80ED&label=PROFILE+VIEWS" />
+</p>
 
 </div>
