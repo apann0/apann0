@@ -30,32 +30,32 @@
 
 ---
 
-<h2 align="center">🚀 Experimental Projects</h2>
+<h2 align="center">💼 Work Experience & Projects</h2>
 
 <table align="center">
   <tr>
-    <th align="left" width="30%">Project Name</th>
-    <th align="left" width="70%">Description & Responsibility</th>
-  </tr>
-  <tr>
-    <td align="left"><b>TabunganKita</b></td>
-    <td align="left">Platform manajemen finansial personal untuk pelacakan tabungan yang terorganisir.</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Cerita Roleplay Hub</b></td>
-    <td align="left">Eksosistem web komunitas FiveM dengan fitur <i>Real-time Player Tracking</i> dan portal informasi terintegrasi.</td>
-  </tr>
-  <tr>
-    <td align="left"><b>FortunaBattleground</b></td>
-    <td align="left">Arsitek server Battle Royale berbasis GTA V (FiveM) dengan mekanik kompetitif yang unik.</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Egg Clicker</b></td>
-    <td align="left">Pengembangan simulator interaktif di platform Roblox dengan fokus pada retensi pemain.</td>
+    <th align="left" width="30%">Project / Group</th>
+    <th align="left" width="70%">Description & Contribution</th>
   </tr>
   <tr>
     <td align="left"><b>SannSunner Group</b></td>
-    <td align="left">Lead Script & Web Developer: Mengembangkan jembatan komunikasi (API Integration) antara <i>Roblox Environment</i> dan <i>Web-based Backend</i>.</td>
+    <td align="left"><b>Lead Web & Script Developer</b>: Mengembangkan integrasi API antara <i>Roblox Environment</i> dan <i>Web-backend</i> untuk sistem automasi data.</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Cerita Roleplay Hub</b></td>
+    <td align="left"><b>Full-Stack Developer</b>: Membangun ekosistem web komunitas FiveM dengan fitur pelacakan pemain <i>real-time</i> dan modul minigames.</td>
+  </tr>
+  <tr>
+    <td align="left"><b>FortunaBattleground</b></td>
+    <td align="left"><b>Game System Architect</b>: Merancang arsitektur server Battle Royale di platform FiveM dengan fokus pada mekanik kompetitif.</td>
+  </tr>
+  <tr>
+    <td align="left"><b>TabunganKita</b></td>
+    <td align="left"><b>Web Developer</b>: Menciptakan platform manajemen finansial personal untuk pelacakan tabungan yang terorganisir.</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Egg Clicker</b></td>
+    <td align="left"><b>Game Developer</b>: Mengembangkan game simulator interaktif di Roblox dengan sistem kustom UI dan retensi pemain.</td>
   </tr>
 </table>
 
@@ -101,7 +101,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=apann0&style=flat-square&color=2F80ED&label=PROFILE+VIEWS" />
   <br/>
-  <i>apann0.</i>
+  <i>Let's build something amazing together.</i>
 </div>
 
 </div>
