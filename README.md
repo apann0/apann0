@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+apann0+%F0%9F%91%8B;full-stack+developer;i+build+things+for+the+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+apann0+%F0%9F%91%8B;Full-Stack+Developer;Building+Digital+Experience" alt="Typing SVG" />
 
 <br/>
 
@@ -13,40 +13,37 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apann0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apann0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED" alt="Top Languages" height="170" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=apann0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apann0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F80ED" alt="Top Languages" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=apann0&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
-<br/>
-<img src="https://platane.github.io/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%" />
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apann0&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" />
+<h3>🐍 Snake Contribution Eat</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apann0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
+<img src="https://raw.githubusercontent.com/apann0/apann0/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 ---
 
-<h3>🚀 Tech Stack</h3>
+<h3>🚀 My Tech Stack</h3>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css" />
-
-<br/>
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis,prisma" />
-
-<br/>
-
-**Tools & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css" alt="frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis,prisma" alt="backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux" alt="tools" />
+</p>
 
 ---
 
