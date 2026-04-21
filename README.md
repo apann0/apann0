@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Greetings%2C+I'm+Alvan+Faith;Full-Stack+Web+Developer;Game+System+Architect;Automation+Service+Provider" alt="Typing SVG" />
 
 <p align="center">
-  <b>Specializing in bridging in-game environments with web-based monitoring and automation systems.</b>
+  <b>Specializing in bridging Roblox & FiveM environments with advanced web-based monitoring systems.</b>
 </p>
 
 <div align="center">
@@ -39,11 +39,11 @@
   </tr>
   <tr>
     <td align="left"><b>SannSunner Group</b></td>
-    <td align="left"><b>Full-Stack Service Provider</b>: Membangun sistem monitoring berbasis web untuk manajemen script automasi, mencakup visualisasi data real-time seperti <i>player currency</i> dan <i>activity logs</i>.</td>
+    <td align="left"><b>Full-Stack Developer (Lua & Web)</b>: Mengembangkan <i>Roblox automation scripts</i> terintegrasi dengan web dashboard untuk pemantauan data <i>real-time</i> seperti saldo pemain (currency) dan log aktivitas teknis lainnya.</td>
   </tr>
   <tr>
     <td align="left"><b>Cerita Roleplay Hub</b></td>
-    <td align="left"><b>Lead Web Developer</b>: Mengembangkan dashboard komunitas FiveM yang terintegrasi dengan data server untuk pemantauan statistik pemain secara langsung.</td>
+    <td align="left"><b>Lead Web Developer</b>: Membangun ekosistem web komunitas FiveM yang menyajikan statistik pemain secara langsung dan fitur manajemen komunitas terpadu.</td>
   </tr>
   <tr>
     <td align="left"><b>FortunaBattleground</b></td>
