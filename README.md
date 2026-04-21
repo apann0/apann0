@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Greetings%2C+I'm+Alvan+Faith;Full-Stack+Web+Developer;Game+System+Architect;Automation+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Greetings%2C+I'm+Alvan+Faith;Full-Stack+Web+Developer;Game+System+Architect;Automation+Service+Provider" alt="Typing SVG" />
 
 <p align="center">
-  <b>Passionate student and developer focused on building interactive web ecosystems and advanced game automation.</b>
+  <b>Specializing in bridging in-game environments with web-based monitoring and automation systems.</b>
 </p>
 
 <div align="center">
@@ -30,32 +30,32 @@
 
 ---
 
-<h2 align="center">💼 Featured Work & Projects</h2>
+<h2 align="center">💼 Work Experience & Projects</h2>
 
 <table align="center">
   <tr>
-    <th align="left" width="30%">Product / Project</th>
-    <th align="left" width="70%">Description & Core Expertise</th>
+    <th align="left" width="30%">Service / Project</th>
+    <th align="left" width="70%">Description & Core Contribution</th>
   </tr>
   <tr>
-    <td align="left"><b>SannSunner Project</b></td>
-    <td align="left"><b>Lead Script & Web Architect</b>: Mengembangkan <i>Third-party Automation Tools</i> untuk optimasi progres pemain di platform Roblox, terintegrasi dengan lisensi berbasis web.</td>
+    <td align="left"><b>SannSunner Group</b></td>
+    <td align="left"><b>Full-Stack Service Provider</b>: Membangun sistem monitoring berbasis web untuk manajemen script automasi, mencakup visualisasi data real-time seperti <i>player currency</i> dan <i>activity logs</i>.</td>
   </tr>
   <tr>
     <td align="left"><b>Cerita Roleplay Hub</b></td>
-    <td align="left"><b>Full-Stack Developer</b>: Membangun ekosistem web untuk komunitas FiveM dengan fitur <i>Live Player Stats</i> dan modul minigames terintegrasi.</td>
+    <td align="left"><b>Lead Web Developer</b>: Mengembangkan dashboard komunitas FiveM yang terintegrasi dengan data server untuk pemantauan statistik pemain secara langsung.</td>
   </tr>
   <tr>
     <td align="left"><b>FortunaBattleground</b></td>
-    <td align="left"><b>Game System Architect</b>: Merancang arsitektur server Battle Royale di FiveM dengan fokus pada mekanik kompetitif dan efisiensi sistem.</td>
+    <td align="left"><b>Game System Architect</b>: Merancang arsitektur server Battle Royale di FiveM dengan fokus pada stabilitas sistem dan logika permainan yang kompetitif.</td>
   </tr>
   <tr>
     <td align="left"><b>TabunganKita</b></td>
-    <td align="left"><b>Web Developer</b>: Menciptakan platform manajemen finansial personal untuk pelacakan tabungan yang terorganisir dan efisien.</td>
+    <td align="left"><b>Web Developer</b>: Menciptakan aplikasi manajemen finansial personal untuk membantu pengguna melacak alokasi tabungan dengan rapi.</td>
   </tr>
   <tr>
     <td align="left"><b>Egg Clicker</b></td>
-    <td align="left"><b>Game Developer</b>: Mengembangkan game simulator interaktif di Roblox dengan implementasi kustom UI dan logika manajemen data.</td>
+    <td align="left"><b>Game Developer</b>: Mengembangkan simulator interaktif di Roblox dengan implementasi UI kustom dan optimasi sistem data pemain.</td>
   </tr>
 </table>
 
