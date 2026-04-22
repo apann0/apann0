@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="left"><b>SannSunner Group</b></td>
-    <td align="left"><b>Full-Stack Developer (Lua & Web)</b>: Mengembangkan <i>Roblox automation scripts</i> terintegrasi dengan web dashboard untuk pemantauan data <i>real-time</i> secara terpusat.</td>
+    <td align="left"><b>Junior Full-Stack Developer (Lua & Web)</b>: Mengembangkan <i>Roblox automation scripts</i> terintegrasi dengan web dashboard untuk pemantauan data <i>real-time</i> secara terpusat.</td>
   </tr>
   <tr>
     <td align="left"><b>Smart Home IoT</b></td>
