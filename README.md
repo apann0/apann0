@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Greetings%2C+I'm+Alvan+Faith;Full-Stack+Web+Developer;Game+System+Architect;Automation+Service+Provider" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Greetings%2C+I'm+Alvan+Faith;Junior+Full-Stack+Web+Developer;Game+System+Architect;Automation+Service+Provider" alt="Typing SVG" />
 
 <p align="center">
   <b>Specializing in bridging Roblox & FiveM environments with advanced web-based monitoring systems.</b>
@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="left"><b>SannSunner Group</b></td>
-    <td align="left"><b>Junior Full-Stack Developer (Lua & Web)</b>: Mengembangkan <i>Roblox automation scripts</i> terintegrasi dengan web dashboard untuk pemantauan data <i>real-time</i> secara terpusat.</td>
+    <td align="left"><b>Full-Stack Developer (Lua & Web)</b>: Mengembangkan <i>Roblox automation scripts</i> terintegrasi dengan web dashboard untuk pemantauan data <i>real-time</i> secara terpusat.</td>
   </tr>
   <tr>
     <td align="left"><b>Smart Home IoT</b></td>
