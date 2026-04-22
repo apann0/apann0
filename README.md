@@ -42,6 +42,10 @@
     <td align="left"><b>Full-Stack Developer (Lua & Web)</b>: Mengembangkan <i>Roblox automation scripts</i> terintegrasi dengan web dashboard untuk pemantauan data <i>real-time</i> seperti saldo pemain (currency) dan log aktivitas teknis lainnya.</td>
   </tr>
   <tr>
+    <td align="left"><b>Smart Home IoT</b></td>
+    <td align="left"><b>IoT Engineer</b>: Merancang sistem kontrol lampu cerdas berbasis ESP8266 yang terintegrasi dengan ekosistem Smart Home (Google Home & Google Assistant) untuk kendali jarak jauh berbasis suara.</td>
+  </tr>
+  <tr>
     <td align="left"><b>Cerita Roleplay</b></td>
     <td align="left"><b>Lead Web Developer</b>: Membangun ekosistem web komunitas FiveM yang menyajikan statistik pemain secara langsung dan fitur manajemen komunitas terpadu.</td>
   </tr>
@@ -59,6 +63,7 @@
   </tr>
 </table>
 
+---
 ---
 
 <h3 align="center">📊 Activity Insight</h3>
