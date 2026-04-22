@@ -58,7 +58,7 @@
     <td align="left"><b>Web Developer</b>: Menciptakan aplikasi manajemen finansial personal untuk membantu pengguna melacak alokasi tabungan dengan rapi.</td>
   </tr>
   <tr>
-    <td align="left"><b>Egg Clicker</b></td>
+    <td align="left"><b>Car drive simulator, South London Remake, Egg Clicker</b></td>
     <td align="left"><b>Game Developer</b>: Mengembangkan simulator interaktif di Roblox dengan implementasi UI kustom dan optimasi sistem data pemain.</td>
   </tr>
 </table>
