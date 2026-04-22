@@ -100,12 +100,11 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,vscode,arduino" />
   <br/><br/>
   <b>AI-Powered Workflow</b><br/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trae-00A3FF?style=flat-square&logo=trae&logoColor=white" />
-  <img src="https://img.shields.io/badge/AntiGravity-FF0000?style=flat-square&logo=antigravity&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-02303A?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trae-1FBAD6?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/AntiGravity-FF4B11?style=for-the-badge&logo=rocket&logoColor=white" />
 
 ---
 
