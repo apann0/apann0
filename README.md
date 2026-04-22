@@ -39,11 +39,11 @@
   </tr>
   <tr>
     <td align="left"><b>SannSunner Group</b></td>
-    <td align="left"><b>Full-Stack Developer (Lua & Web)</b>: Mengembangkan <i>Roblox automation scripts</i> terintegrasi dengan web dashboard untuk pemantauan data <i>real-time</i> seperti saldo pemain (currency) dan log aktivitas teknis lainnya.</td>
+    <td align="left"><b>Full-Stack Developer (Lua & Web)</b>: Mengembangkan <i>Roblox automation scripts</i> terintegrasi dengan web dashboard untuk pemantauan data <i>real-time</i> secara terpusat.</td>
   </tr>
   <tr>
     <td align="left"><b>Smart Home IoT</b></td>
-    <td align="left"><b>IoT Engineer</b>: Merancang sistem kontrol lampu cerdas berbasis ESP8266 yang terintegrasi dengan ekosistem Smart Home (Google Home & Google Assistant) untuk kendali jarak jauh berbasis suara.</td>
+    <td align="left"><b>IoT Engineer</b>: Merancang sistem kontrol lampu cerdas berbasis ESP8266 yang terintegrasi dengan ekosistem Google Home & Assistant untuk kendali jarak jauh.</td>
   </tr>
   <tr>
     <td align="left"><b>Cerita Roleplay</b></td>
@@ -58,12 +58,11 @@
     <td align="left"><b>Web Developer</b>: Menciptakan aplikasi manajemen finansial personal untuk membantu pengguna melacak alokasi tabungan dengan rapi.</td>
   </tr>
   <tr>
-    <td align="left"><b>Car drive simulator, South London Remake, Egg Clicker</b></td>
+    <td align="left"><b>Egg Clicker</b></td>
     <td align="left"><b>Game Developer</b>: Mengembangkan simulator interaktif di Roblox dengan implementasi UI kustom dan optimasi sistem data pemain.</td>
   </tr>
 </table>
 
----
 ---
 
 <h3 align="center">📊 Activity Insight</h3>
@@ -98,13 +97,20 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb,prisma,redis,lua" />
   <br/><br/>
   <b>Core Tools & Infrastructure</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,vscode,arduino" />
+  <br/><br/>
+  <b>AI-Powered Workflow</b><br/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trae-00A3FF?style=flat-square&logo=trae&logoColor=white" />
+  <img src="https://img.shields.io/badge/AntiGravity-FF0000?style=flat-square&logo=antigravity&logoColor=white" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=apann0&style=flat-square&color=2F80ED&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=apann0&style=flat-square&color=2F80ED&label=TOTAL+VISITS" />
   <br/>
   <i>Let's build something amazing together.</i>
 </div>
