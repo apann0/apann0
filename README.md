@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Greetings%2C+I'm+Alvan+Faith;Junior+Full-Stack+Web+Developer" alt="Typing SVG" />
 
 <p align="center">
-  <b>16yo</b>
+  <b>Hi, welcome to my github profile, for a more complete portfolio please check visioncode.my.id</b>
 </p>
 
 <div align="center">
